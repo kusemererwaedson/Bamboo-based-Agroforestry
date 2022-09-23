@@ -65,3 +65,11 @@
     margin-bottom: 10px;
     background-color: rgb(161, 238, 193);
   }
+
+  .business-about{
+    text-align: justify;
+    margin: 10%;
+  }
+  .business-about h3{
+    text-decoration: none;
+  }
