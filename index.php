@@ -61,19 +61,7 @@
             <li class="nav-item active">
                <a class="nav-link" href="index.php">Home</a>
             </li>
-            <!-- <li class="nav-item dropdown ative">
-               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
-                  aria-haspopup="true" aria-expanded="false">
-                  Company
-               </a>
-               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="about.html">About Us</a>
-                  <a class="dropdown-item" href="#">Impact</a>
-                  <a class="dropdown-item" href="partner.html">Partners</a>
-                  <a class="dropdown-item" href="faq.html">FAQ</a>
-               </div>
-
-            </li> -->
+         
             <li class="nav-item dropdown ative">
                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
                   aria-haspopup="true" aria-expanded="false">
@@ -106,23 +94,7 @@
             <li class="nav-item active">
                <a class="nav-link" href="contact.html">Get in Touch</a>
             </li>
-            <!-- <li class="nav-item active">
-               <a class="nav-link" href="propagation.html">Services</a>
-             </li>
       
-         
-
-            <li class="nav-item dropdown active">
-               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
-                  aria-haspopup="true" aria-expanded="false">
-                  Resources
-               </a>
-               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="invest.html">How We Invest</a>
-                  <a class="dropdown-item" href="faq.html">FAQ</a>
-               </div>
-
-            </li> -->
 
          </ul>
          <div class="navbar-nav active">
@@ -177,51 +149,81 @@
 
    <!-- slider end -->
 
-   <!-- start of info -->
-   <div class="container mb-5 mx-auto mt-5">
-      <div class="row mx-auto">
-         <!-- <div class="col-12 col-sm-8 col-md-6 mb-3 mx-auto">
-
-            <div class="titlepage" style="justify-content: center;">
+   <div class="container mb-5">
+      <div align="center">
+      <h2>About Us</h2>
+  </div>
+      <div class="row">
+          
+         <div class="col-12 col-sm-8 col-md-6 mb-3 mx-auto">
+  
+            <div class="titlepage mt-5 mx-auto" style="justify-content: center;">
                <h3 style="justify-content: center;">Investments<br>Enabling farmers run successful agribusinesses</h3>
                <p style="justify-content: center;">Through the TIGPE Investment platform, we raise funds from investors
                   to invest alongside us in local agribusinesses.<br>We didn't set out to become investors.
-
+  
                </p>
                <a class="read_more ye_b5n " href="#more"> Read More</a>
             </div>
-
-
-         </div> -->
-         <div class="col-12 col-sm-8 col-md-12 mx-auto">
-            <center>
-            <h3 styles="text-align: center;">About Us</h3></center>
+  
+  
+         </div>
+         <div class="col-12 col-sm-8 col-md-6 mx-auto">
             <div class="card border-0 shadow">
                <div class="card-body">
-                  <div class="row" style="padding: 20px; font-size: 20px; text-align: center;">
-                     TIGPE builds and manages agriculture projects and enables infrastructures and services through 
-               plantation, propagation and investment</div>
+                  <div class="row">
+                     We started our business in 2014 to provide quality planting materials to farmers, and before we
+                     knew it, we had hundreds of farmers needing financial support. Along the way, we approached
+                     financial institutions to lend a hand, but it was always a miserable experience.<br>We asked
+                     ourselves why financial institutions dragged out deals for months and renegotiated over and over
+                     again. It was horrible.
+                  </div>
                   <hr>
-              
-
+                  <div class="row">
+                     Then we read about how Crowd funding that facilitates billion-dollar opportunities quickly by
+                     keeping the process painless and promising investors thorough due diligence of portfolio
+                     businesses.<br>Nobody had done this for smallholder farmers like us, so we decided to do it
+                     ourselves.
+                  </div>
+                  <hr>
+                  <div class="row">
+                     In 2020, we incorporated TIGPE and started collaborating with farmers as Partner, Shareholder or
+                     Leaser using a simple one-month contracting process, then leaving the farmers alone to do their
+                     thing while we provide oversight.<br>It turned out we were right, farmers loved it.<br>We haven't
+                     looked back since...
+                  </div>
+  
                </div>
             </div>
          </div>
       </div>
    </div>
-   <!-- end our info -->
+<!-- mission and vision -->
+   <div class="row m-5 w-75 mx-auto">
+
+      <div class="col-sm">
+         <div class="card border-0 shadow mb-3 text-center" style="background-color: #fff3f3;">
+            <div class="card-body">
+               <h1 class="w3-blue">Our Mission</h1>
+               <p>We partner with entrepreneurs at grassroots to build thriving enterprises  that transform lives and benefit the environment and surrounding communities. </p>
+            </div>
+         </div>
+      </div>
+      <div class="col-sm">
+         <div class="card border-0 shadow text-center" style="background-color: #fff3f3;">
+            <div class="card-body pb-5">
+               <h1 class="w3-blue">Our Vision</h1>
+               <p class="pt-4">Uplifting humanity through bamboo-based agroforestry.</p>
+            </div>
+         </div>
+      </div>
+    
+    </div>
+    <!-- mission and vision end-->
+    
 
    <!-- projects -->
    <div class="container">
-      <table class="table table-striped mt-3 mb-5 w-50 mx-auto text-center">
-         <!-- <thead>
-            <tr>
-               <th scope="col"> <h2>Funded Offerrings</h2></th>
-            </tr>
-         </thead>
-         </table> -->
-      
-   
       <div class="row">
          <div class="col-sm">
             <div class="card border-0 shadow mr-3 mb-3">
@@ -276,67 +278,65 @@
       </div>
    </div>
 <br>
-   <!-- projects -->
-   
-   <!-- core values -->
-<!-- <div class="card-4 text-black mx-auto" style="max-width: 60rem; background-color: #fff3f3;">
-   <div class="card-body">
 
-   <table class="table table-striped mt-3 mb-5 w-50 mx-auto text-center">
-      <thead>
-         <tr>
-            <th scope="col"><h2 style="color: black;">CORE VALUES</h2></th>
 
-         </tr>
+       <!-- // investment details   -->
 
-         <tr>
-            <th scope="col">Collaborations </th>
-
-         </tr>
-      </thead>
+ 
+<div class="container">
+   <div style="text-align: center;">
+      <h2>Investment Details</h2>
+     
+   </div>
+  
+   <div class="card-4 text-black bg-light mx-auto" style="max-width: 40rem;">
+      <div class="card-body">
+  
+   <table class="table table-borderless">
+  
       <tbody>
-         <tr>
-            <th scope="row">Human Diginity</th>
-
-         </tr>
-         <tr>
-            <th scope="row">Innovation</th>
-
-         </tr>
-         <tr>
-            <th scope="row">Exellence</th>
-
-         </tr>
-         <tr>
-            <th scope="row">Initiative</th>
-
-         </tr>
-         <tr>
-            <th scope="row">Solidality </th>
-
-         </tr>
-         <tr>
-            <th scope="row">Confidence</th>
-
-         </tr>
+        <tr>
+          <td>Subscription Start Date:</td>
+          <td> October 1, 2022</td>
+        
+        </tr>
+        <tr>
+          <td>Minimum Quarterly Subscription:</td>
+          <td> $25,000</td>
+          
+        </tr>
+        <tr>
+          <td> Minimum Subscription Period:</td>
+          <td>  4 Quarters</td>
+          
+        </tr>
+        <tr>
+          <td>Management Fee:</td>
+          <td>  0%</td>
+          
+        </tr>
+        <tr>
+          <td>Carry:</td>
+          <td>Thirty percent (30%)</td>
+          
+        </tr>
+        <tr>
+          <td>TIG Management Centre Admin Fee:</td>
+          <td> 0.15% of contributed capital</td>
+          
+        </tr>
+       
+     
       </tbody>
-   </table>
-</div>
-</div>
-<br> -->
-   <!-- core values end -->
+    </table>
+  
+    </div>
+  </div>
+  </div>
+  
+  <!--end investment details -->
 
-   <div class="container">
-      <table class="table table-striped mt-3 mb-5 w-50 mx-auto text-center">
-         <thead>
-            <tr>
-               <th scope="col"> <h2>Investments</h2></th>
-              
-            </tr>
-         </thead>
-      </table>
-      <center> <p style="font-size:17px;">Matching the world to Profitable Impact Investments in Rural Businesses in Uganda</p></center>
-      </div>
+
       <nav class="nav navbar" style="height: 150px; background-color: #90EE90;">
          
          <div class="show w3-center">9,200+ <br> Crops Planted</div>
