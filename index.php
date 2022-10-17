@@ -19,6 +19,7 @@
     <!-- style css -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/styless.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <link rel="stylesheet" href="css/faq.css">
    <!-- Responsive-->
    <link rel="stylesheet" href="css/responsive.css">
@@ -133,7 +134,7 @@
 
    <!-- slider end -->
 
-   <div class="container mb-5">
+   <div class="container mb-5 mt-5">
       <div align="center">
       <h2>About Us</h2>
       <div class="row ml-5 mr-5 w-75 mx-auto">
@@ -438,7 +439,7 @@
           </div>
      </div>
      <div>
-      <div align="center">
+      <div align="center" class="mx-auto mt-5 mb-5">
          <h2>Theory Of Change</h2>
          </div>
       <img src="images/TOC.png">
