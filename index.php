@@ -45,66 +45,52 @@
    </div>
    <!-- end loader -->
 
-   <!-- topnav start -->
-   <nav class="navbar navbar-expand-lg navbar-light bg-light sticky" id="navbar_top">
-     <a href="index.php"> <img src="images/log.png" alt="" height=""> &nbsp</a>
-   
-      <!-- <img src="images/logo2.png" style="height: 80px; width: 140px;"> -->
-      <!-- <a class="navbar-brand" href="#">Bamboo</a> -->
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-         <span class="navbar-toggler-icon"></span>
-      </button>
+  <!-- topnav start -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light sticky" id="navbar_top">
+   <a href="index.php"> <img src="images/log.png" alt="" height=""> &nbsp</a>
+ 
+    <!-- <img src="images/logo2.png" style="height: 80px; width: 140px;"> -->
+    <!-- <a class="navbar-brand" href="#">Bamboo</a> -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+       <span class="navbar-toggler-icon"></span>
+    </button>
 
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-         <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-               <a class="nav-link" href="index.php">Home</a>
-            </li>
-         
-            <li class="nav-item dropdown ative">
-               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
-                  aria-haspopup="true" aria-expanded="false">
-                  Investment
-               </a>
-               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="invest.html">About</a>
-                  <a class="dropdown-item" href="faq.html">FAQ</a>
-                  <a class="dropdown-item" href="#">Businesses</a>
-                  <a class="dropdown-item" href="#">Rolling Fund</a>
-               </div>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+       <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+             <a class="nav-link" href="index.php">Home</a>
+          </li>
+          <li class="nav-item active">
+           <a class="nav-link" href="invest.html">Invest</a>
+        </li>
 
-            </li>
-            <!-- <li class="nav-item active ">
-               <a class="nav-link ml-3" href="index.html">Investments <span class="sr-only">(current)</span></a>
-            </li> -->
+          <li class="nav-item active">
+             <a class="nav-link" href="propagation.html">Propagation</a>
+          </li>
 
-            <li class="nav-item active">
-               <a class="nav-link" href="propagation.html">Propagation</a>
-            </li>
+          <li class="nav-item active">
+             <a class="nav-link" href="plantation.html">Plantation</a>
+          </li>
 
-            <li class="nav-item active">
-               <a class="nav-link" href="plantation.html">Plantation</a>
-            </li>
-
-            <li class="nav-item active">
-               <a class="nav-link" href="processing.html">Processing</a>
-            </li>
-            
-            <li class="nav-item active">
-               <a class="nav-link" href="contact.html">Get in Touch</a>
-            </li>
-      
-
-         </ul>
-         <div class="navbar-nav active">
-            <a href="login.html" class="nav-item nav-link">Login</a>
-            <a href="register.html" class="nav-item nav-link">Sign Up</a>
-         </div>
-      </div>
-   </nav>
-
-   <!-- top navbar end -->
+          <li class="nav-item active">
+             <a class="nav-link" href="processing.html">Processing</a>
+          </li>
+          
+          <li class="nav-item active">
+             <a class="nav-link" href="contact.html">Get in Touch</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="faq.html">FAQ</a>
+         </li>
+       </ul>
+       <div class="navbar-nav active">
+          <a href="login.html" class="nav-item nav-link">Login</a>
+          <a href="register.html" class="nav-item nav-link">Sign Up</a>
+       </div>
+    </div>
+ </nav>
+ <!-- top navbar end -->
 
 
    <!-- slider start -->
@@ -212,50 +198,6 @@
 </div>
  <!-- core values end-->
 
-      <div class="row">
-          
-         <div class="col-12 col-sm-8 col-md-6 mb-3 mx-auto">
-  
-            <div class="titlepage mt-5 mx-auto" style="justify-content: center;">
-               <h3 style="justify-content: center;">Investments<br>Enabling farmers run successful agribusinesses</h3>
-               <p style="justify-content: center;">Through the TIGPE Investment platform, we raise funds from investors
-                  to invest alongside us in local agribusinesses.<br>We didn't set out to become investors.
-  
-               </p>
-               <a class="read_more ye_b5n " href="#more"> Read More</a>
-            </div>
-  
-  
-         </div>
-         <div class="col-12 col-sm-8 col-md-6 mx-auto mb-5">
-            <div class="card border-0 shadow">
-               <div class="card-body">
-                  <div class="row">
-                     We started our business in 2014 to provide quality planting materials to farmers, and before we
-                     knew it, we had hundreds of farmers needing financial support. Along the way, we approached
-                     financial institutions to lend a hand, but it was always a miserable experience.<br>We asked
-                     ourselves why financial institutions dragged out deals for months and renegotiated over and over
-                     again. It was horrible.
-                  </div>
-                  <hr>
-                  <div class="row">
-                     Then we read about how Crowd funding that facilitates billion-dollar opportunities quickly by
-                     keeping the process painless and promising investors thorough due diligence of portfolio
-                     businesses.<br>Nobody had done this for smallholder farmers like us, so we decided to do it
-                     ourselves.
-                  </div>
-                  <hr>
-                  <div class="row">
-                     In 2020, we incorporated TIGPE and started collaborating with farmers as Partner, Shareholder or
-                     Leaser using a simple one-month contracting process, then leaving the farmers alone to do their
-                     thing while we provide oversight.<br>It turned out we were right, farmers loved it.<br>We haven't
-                     looked back since...
-                  </div>
-  
-               </div>
-            </div>
-         </div>
-      </div>
    </div>
 
    <!-- projects -->
@@ -315,6 +257,26 @@
    </div>
 <br>
 
+        <!-- impact -->
+        
+        <div class="container mb-5">
+         <div align="center">
+         <h2>Our Impact</h2>
+         <div class="row ml-5 mr-5 w-75 mx-auto">
+     
+            <div class="col-sm mb-3">
+               <div class="card border-0 shadow bg-light" style="height: 100%;">
+                  <div class="card-body">
+                     
+                     <p>Agroforestry is seen as a catalyst for creating shared value among an integrated value chain and a means to create socio-economic synergies and enhance livelihoods alongside with climate change mitigation and adaptation.</p><br>
+                     <p>In bamboo-based agroforestry systems, the bamboos play important role in the livelihoods of rural people by providing employment, energy, nutritious foods, and a wide range of goods and also balancing ecosystems. Bamboo-based agroforestry systems are currently being promoted as a viable land-use option to reduce dependence on natural forest for wood, fuelwood, and construction materials.</p>
+               </div>
+            </div>
+          
+          </div>
+     </div>
+             <!-- impact end-->
+
 
        <!-- // investment details   -->
 
@@ -373,14 +335,12 @@
   <!--end investment details -->
 
 
-      <nav class="nav navbar" style="height: 150px; background-color: #90EE90;">
+      <nav class="nav navbar mt-5" style="height: 150px; background-color: #90EE90;">
          
-         <div class="show w3-center">9,200+ <br> Crops Planted</div>
-         <div class="show w3-center mx-auto">1,800+ <br> Investments</div>
-         <div class="show w3-center mx-auto">133.4m <br> Project Value</div>
-         <div class="show w3-center mx-auto">9%-24% <br> Products</div>
-         <div class="show w3-center mx-auto">2-24 months <br> Project Duration</div>
-         
+         <div class="show w3-center mx-auto">9,200+ <br>Jobs Created</div>
+         <div class="show w3-center mx-auto">1,800+ <br>Land Restored</div>
+         <div class="show w3-center mx-auto">133.4m <br>Farmers Impacted</div>
+         <div class="show w3-center mx-auto">9%-24% <br>Capital Flow</div>
       </nav>
 
    </div>
