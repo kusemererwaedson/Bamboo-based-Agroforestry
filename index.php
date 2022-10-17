@@ -16,13 +16,10 @@
    <!-- bootstrap css -->
    <link rel="stylesheet" href="css/bootstrap.min.css">
    <!-- style css -->
-   <link rel="stylesheet" href="css/style.css">
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
-   <link hrel="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap"
-      rel="stylesheet">
-   <link rel="stylesheet" href="w3schools.css">
-   <link rel="stylesheet" href="css/faq.css">
-
+    <!-- style css -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/styless.css">
+    <link rel="stylesheet" href="css/faq.css">
    <!-- Responsive-->
    <link rel="stylesheet" href="css/responsive.css">
    <!-- fevicon -->
@@ -628,6 +625,7 @@
 
    <!-- end footer -->
    <!-- Javascript files-->
+   <script src="js/faq.js"></script>
    <script src="header.js"></script>
    <script src="js/jquery.min.js"></script>
    <script src="js/bootstrap.bundle.min.js"></script>
