@@ -451,10 +451,7 @@
           
           </div>
      </div>
-     <div>
-      <div align="center" class="mx-auto mt-5 mb-5">
-         <h2>Theory Of Change</h2>
-         </div>
+     <div class="mt-5">
       <img src="images/newthoery.png">
      </div>
    </div>
