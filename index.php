@@ -442,7 +442,7 @@
       <div align="center" class="mx-auto mt-5 mb-5">
          <h2>Theory Of Change</h2>
          </div>
-      <img src="images/TOC.png">
+      <img src="images/newthoery.png">
      </div>
              <!-- impact end-->
 
