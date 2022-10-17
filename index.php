@@ -138,9 +138,10 @@
    <div class="container mb-5 mt-5">
       <div align="center">
       <h2>About Us</h2>
-      <div class="row ml-5 mr-5 w-75 mx-auto">
+      </div>
+      <div class="row ml-2 mr-2 mx-auto">
 
-         <div class="col-sm mb-3">
+         <div class="col-sm-12 mb-3">
             <div class="card border-0 shadow bg-light" style="height: 100%;">
                <div class="card-body">
                   
@@ -152,9 +153,9 @@
   </div>
 
 <!-- mission and vision -->
-<div class="row m-5 w-75 mx-auto">
+<div class="row m-5 mx-auto" width="100%">
 
-   <div class="col-sm">
+   <div class="col-sm-6">
       <div class="card border-0 shadow mb-3 text-center" style="background-color: #fff3f3;">
          <div class="card-body">
             <h3 class="w3-blue">Our Mission</h3>
@@ -162,7 +163,7 @@
          </div>
       </div>
    </div>
-   <div class="col-sm">
+   <div class="col-sm-6">
       <div class="card border-0 shadow text-center" style="background-color: #fff3f3;">
          <div class="card-body pb-5">
             <h3 class="w3-blue">Our Vision</h3>
@@ -179,7 +180,7 @@
    <div align="center">
    <h2>Core Values</h2>
    </div>
-   <div class="row ml-5 mr-5 w-50">
+   <div class="row ml-5 mr-5">
 
       <div class="col-sm mb-3">
          <div class="card border-0 shadow bg-light" style="height: 100%;">
@@ -202,7 +203,7 @@
    </div>
 
    <!-- projects -->
-   <div class="container">
+   <div class="container" style="width: 100%;">
       <div class="row">
          <div class="col-sm">
             <div class="card border-0 shadow mr-3 mb-3">
@@ -261,7 +262,10 @@
 
 
 
-                <!-- why customers choose us -->
+                
+                <div class="row">
+                  <!-- why customers choose us -->
+                  <div class="card col-sm-6 col-lg-6 col-md-6">
                 <div style="color: blue; text-align: center;" class="mt-5">
                     <h3>Why Farmers Choose Us</h3>
                 </div>
@@ -337,15 +341,19 @@
             
                     </section>
                 </main>
+               </div>
+               
                 <br>
                 <!-- why customers choose us end-->
 
         <!-- why investors choose us end-->
+        <div class="card col-sm-6 col-md-6 col-lg-6">
+         
         <div style="color: blue; text-align: center;" class="mt-5">
             <h3>Why investors choose us</h3>
         </div>
-        <div class="w-75 mx-auto">
-        <p>Whether you’re looking to diversify your assets, hedge against inflation, generate income, access fresh farm produce, or grow your overall portfolio value, TIGPE offers a variety of options to add farmland to your portfolio.</p>
+        <div class="mx-auto">
+        <!-- <p>Whether you’re looking to diversify your assets, hedge against inflation, generate income, access fresh farm produce, or grow your overall portfolio value, TIGPE offers a variety of options to add farmland to your portfolio.</p> -->
        </div>
         <main class="mx-auto mb-5">
             <section class="faq-container">
@@ -419,14 +427,16 @@
     
             </section>
         </main>
+      </div>
+   </div>
         <br>
         <!--why investors choose us end-->
         <!-- impact -->
         
-        <div class="container mb-5">
+        <div class="container mb-5 mt-5">
          <div align="center">
          <h2>Our Impact</h2>
-         <div class="row ml-5 mr-5 w-75 mx-auto">
+         <div class="row ml-5 mr-5 mx-auto">
      
             <div class="col-sm mb-3">
                <div class="card border-0 shadow bg-light" style="height: 100%;">
