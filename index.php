@@ -440,6 +440,12 @@
           
           </div>
      </div>
+     <div>
+      <div align="center">
+         <h2>Theory Of Change</h2>
+         </div>
+      <img src="images/TOC.png">
+     </div>
              <!-- impact end-->
 
 
